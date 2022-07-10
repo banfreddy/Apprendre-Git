@@ -62,3 +62,8 @@ hr {
     padding: 5px 8px;
     border-radius: 5px;
 }
+
+.btn {
+    border: none;
+    margin-top: 15px;
+}
